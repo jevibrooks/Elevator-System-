@@ -1,0 +1,23 @@
+/Users/najib/Downloads/LiftServerSystem-master/ElevatorControl/ElevatorControl/obj/Debug/ElevatorControl.csprojAssemblyReference.cache
+/Users/najib/Downloads/LiftServerSystem-master/ElevatorControl/ElevatorControl/obj/Debug/ElevatorControl.Form1.resources
+/Users/najib/Downloads/LiftServerSystem-master/ElevatorControl/ElevatorControl/obj/Debug/ElevatorControl.Properties.Resources.resources
+/Users/najib/Downloads/LiftServerSystem-master/ElevatorControl/ElevatorControl/obj/Debug/ElevatorControl.csproj.GenerateResource.cache
+/Users/najib/Downloads/LiftServerSystem-master/ElevatorControl/ElevatorControl/obj/Debug/ElevatorControl.csproj.CoreCompileInputs.cache
+C:\Users\1914913\Documents\LiftServerSystem-master\ElevatorControl\ElevatorControl\bin\Debug\ElevatorControl.exe.config
+C:\Users\1914913\Documents\LiftServerSystem-master\ElevatorControl\ElevatorControl\bin\Debug\ElevatorControl.exe
+C:\Users\1914913\Documents\LiftServerSystem-master\ElevatorControl\ElevatorControl\bin\Debug\ElevatorControl.pdb
+C:\Users\1914913\Documents\LiftServerSystem-master\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.csprojResolveAssemblyReference.cache
+C:\Users\1914913\Documents\LiftServerSystem-master\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.Form1.resources
+C:\Users\1914913\Documents\LiftServerSystem-master\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.Properties.Resources.resources
+C:\Users\1914913\Documents\LiftServerSystem-master\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.csproj.GenerateResource.Cache
+C:\Users\1914913\Documents\LiftServerSystem-master\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.exe
+C:\Users\1914913\Documents\LiftServerSystem-master\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.pdb
+C:\Users\1914913\Documents\LiftServerSystem-master\C# Assignment 1- 1914913\ElevatorControl\bin\Debug\ElevatorControl.exe.config
+C:\Users\1914913\Documents\LiftServerSystem-master\C# Assignment 1- 1914913\ElevatorControl\obj\Debug\ElevatorControl.exe
+C:\Users\1914913\Documents\LiftServerSystem-master\C# Assignment 1- 1914913\ElevatorControl\obj\Debug\ElevatorControl.pdb
+E:\1817911-Rahman\bin\Debug\ElevatorControl.exe.config
+E:\1817911-Rahman\obj\Debug\ElevatorControl.exe
+E:\1817911-Rahman\obj\Debug\ElevatorControl.pdb
+C:\Users\jevibrooks\Desktop\1911192-Elevator assignment\obj\Debug\ElevatorControl.csproj.AssemblyReference.cache
+C:\Users\jevibrooks\Desktop\1911192-Elevator assignment\obj\Debug\ElevatorControl.exe
+C:\Users\jevibrooks\Desktop\1911192-Elevator assignment\obj\Debug\ElevatorControl.pdb
